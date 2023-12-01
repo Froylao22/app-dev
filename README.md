@@ -1,6 +1,4 @@
 # app-dev
 My first repository
-# My favorite Movies/ Series
-1. Walking Dead
-2. Titanic
-3. End Game
+
+#H1 [Titatic](https://en.wikipedia.org/wiki/Titanic_(1997_film))
